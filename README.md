@@ -25,7 +25,7 @@ This is a Python-based web scraper tool that extracts product prices, images, an
 Clone the repository:
 bash
 Copy code
-git clone <repository_url>
+git clone https://github.com/abhayarya91/web-scraper.git
 Install required libraries:
 bash
 Copy code
